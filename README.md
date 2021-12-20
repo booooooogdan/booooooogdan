@@ -6,7 +6,7 @@
 
 🎓I have experience in cross-platform development, creating and publishing mobile applications, working with Databases and RESTful API
 
-👩‍💻 I’m currently working on my Flutter Game "War Thunder Quiz 2"
+👩‍💻 I’m currently working on my Flutter Game "War Thunder Quiz 2" 
 
 ## 📈 GitHub Stats
 
