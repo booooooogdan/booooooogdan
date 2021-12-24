@@ -1,4 +1,4 @@
-# 👋 Welcome ![visitors](https://page-views.glitch.me/badge?page_id=booooooogdan.visitor-badge)
+# 👋 Welcome ![visitors](https://page-views.glitch.me/badge?page_id=booooohdan.visitor-badge)
 
 ## 😄 About me 
 
@@ -10,6 +10,6 @@
 
 ## 📈 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=booooooogdan&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=booooohdan&count_private=true&hide=contribs&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booooooogdan&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booooohdan&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
