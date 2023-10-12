@@ -2,7 +2,7 @@
 
 ## 😄 About me 
 
-✌️ My name is Bohdan, I am 26 years old. I have been doing programming for about 5 years, trying out ASP.Net Core, Xamarin.Android and Xamarin.Forms. I have been engaged in industrial development for 2 years, in particular in Xamarin and Flutter.
+✌️ My name is Bohdan, I am 27 years old. I have been doing programming for about 5 years, trying out ASP.Net Core, Xamarin.Android and Xamarin.Forms. I have been engaged in industrial development for 3 years, in particular in Xamarin and Flutter.
 
 🎓I have experience in cross-platform development, creating and publishing mobile applications, working with Databases and RESTful API
 
